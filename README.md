@@ -1,8 +1,8 @@
 
-```HTML
-<h1> Hello World </h1>
+```js
+console.log("Hi")
 ```
 
-```SwiftUI
-Text("Hello World")
+```swift
+print("Hi")
 ```
