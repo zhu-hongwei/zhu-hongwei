@@ -3,6 +3,6 @@
 console.log("Hi")
 ```
 
-```swift
+``` php python swift
 print("Hi")
 ```
