@@ -8,5 +8,5 @@ print("Hi")
 ```
 
 ```bash
-echo 'Hi'
+echo "Hi"
 ```
